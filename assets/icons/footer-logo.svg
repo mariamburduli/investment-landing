@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213.349" height="135.848" viewBox="0 0 213.349 135.848">
+  <g id="Group" transform="translate(0.849 0.848)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_19" data-name="Group 19">
+        <path id="Fill_7" data-name="Fill 7" d="M4,15.842,16.783,3.066,29.564,15.842a7.965,7.965,0,0,1,1.673,2.447h2.33a10.23,10.23,0,0,0-2.472-3.977L16.783,0,2.466,14.312A10.159,10.159,0,0,0,0,18.289H2.329A7.973,7.973,0,0,1,4,15.842" transform="translate(25.17 0)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="1.2"/>
+        <path id="Fill_10" data-name="Fill 10" d="M29.564,2.448,16.783,15.229,4,2.448A7.981,7.981,0,0,1,2.329,0H0A10.176,10.176,0,0,0,2.467,3.983L16.783,18.294,31.095,3.983A10.126,10.126,0,0,0,33.566,0h-2.33a7.972,7.972,0,0,1-1.673,2.448" transform="translate(25.17 65.613)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="1.2"/>
+        <text id="MF" transform="translate(19 54)" fill="#00d09c" font-size="30" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.15em"><tspan x="0" y="0">MF</tspan></text>
+        <path id="Fill_14" data-name="Fill 14" d="M0,16.783,14.312,31.095a10.225,10.225,0,0,0,3.977,2.472V31.242a8.036,8.036,0,0,1-2.447-1.677L3.066,16.783,15.842,4a7.95,7.95,0,0,1,2.447-1.677V0a10.219,10.219,0,0,0-3.977,2.467Z" transform="translate(0 25.17)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="1.2"/>
+        <path id="Fill_17" data-name="Fill 17" d="M3.983,2.467A10.205,10.205,0,0,0,0,0V2.325A7.99,7.99,0,0,1,2.447,4L15.228,16.783,2.447,29.564A8.085,8.085,0,0,1,0,31.242v2.325a10.161,10.161,0,0,0,3.983-2.472L18.294,16.783Z" transform="translate(65.613 25.17)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="1.2"/>
+      </g>
+      <text id="Mutal_Funds" data-name="Mutal Funds" transform="translate(0.5 127)" fill="#222" font-size="30" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.15em"><tspan x="0" y="0">Mutal Funds</tspan></text>
+    </g>
+  </g>
+</svg>

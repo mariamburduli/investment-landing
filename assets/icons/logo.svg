@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.674" height="34" viewBox="0 0 180.674 34">
+  <g id="logo" transform="translate(0.458)">
+    <text id="Mutal_Funds" data-name="Mutal Funds" transform="translate(108.216 27)" fill="#222" font-size="25.92" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-71.837" y="0">Mutal Funds</tspan></text>
+    <g id="Group_19" data-name="Group 19" transform="translate(0 3.888)">
+      <path id="Fill_7" data-name="Fill 7" d="M1.338,5.3,5.61,1.025,9.883,5.3a2.662,2.662,0,0,1,.559.818h.779a3.42,3.42,0,0,0-.826-1.33L5.61,0,.824,4.784A3.4,3.4,0,0,0,0,6.114H.779A2.665,2.665,0,0,1,1.338,5.3" transform="translate(8.414 0)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="0.648"/>
+      <path id="Fill_10" data-name="Fill 10" d="M9.883.818,5.61,5.091,1.338.818A2.668,2.668,0,0,1,.779,0H0A3.4,3.4,0,0,0,.825,1.331L5.61,6.115l4.784-4.784A3.385,3.385,0,0,0,11.221,0h-.779a2.665,2.665,0,0,1-.559.818" transform="translate(8.414 21.933)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="0.648"/>
+      <path id="Fill_14" data-name="Fill 14" d="M0,5.61l4.784,4.784a3.418,3.418,0,0,0,1.33.826v-.777A2.686,2.686,0,0,1,5.3,9.883L1.025,5.61,5.3,1.338A2.658,2.658,0,0,1,6.114.777V0a3.416,3.416,0,0,0-1.33.825Z" transform="translate(0 8.414)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="0.648"/>
+      <text id="MF" transform="translate(14.904 18.776)" fill="#00d09c" font-size="10.368" font-family="Futura-Medium, Futura" font-weight="500"><tspan x="-7.619" y="0">MF</tspan></text>
+      <path id="Fill_17" data-name="Fill 17" d="M1.331.825A3.411,3.411,0,0,0,0,0V.777a2.671,2.671,0,0,1,.818.561L5.091,5.61.818,9.883A2.7,2.7,0,0,1,0,10.444v.777a3.4,3.4,0,0,0,1.331-.826L6.115,5.61Z" transform="translate(21.933 8.414)" fill="#00d09c" stroke="#00d09c" stroke-miterlimit="10" stroke-width="0.648"/>
+    </g>
+  </g>
+</svg>
